@@ -1,14 +1,12 @@
 ---
 permalink: /
-title: ""
+title: "About"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-About
-======
 Zhuo Chen is a senior undergraduate at the Institute for Interdisciplinary Information Sciences (Yao Class), at Tsinghua University.
 He is majoring in Computer Science and Technology and expected to obtain the Bachelor of Engineering in Fall 2025.
 
