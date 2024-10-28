@@ -43,3 +43,11 @@ Skills
   * Machine Learning Data Training
   * Computer System Architecture Simulation
   * Type-Sate Back-End Programming
+ 
+Awards
+======
+* Friends of Tsinghua---Nanjing Turing Institute of Artificial Intelligence Scholarship (2023)
+* Friends of Tsinghua---Huawei Scholars Scholarships (2022)
+* Tsinghua University National Freshman Scholarship (2021)
+* 37th Chinese Physics Olympiad (CPhO) Competition Gold Award (National Team Candidate) (2020)
+
