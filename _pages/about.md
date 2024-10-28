@@ -8,13 +8,13 @@ redirect_from:
 ---
 
 Zhuo Chen is a senior undergraduate at the Institute for Interdisciplinary Information Sciences (Yao Class), at Tsinghua University.
-He is majoring in Computer Science and Technology and expected to obtain the Bachelor of Engineering in Fall 2025.
+He is majoring in Computer Science and Technology and expected to obtain a Bachelor of Engineering in Fall 2025.
 
-Education
+Publications
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+1. *Optimizing Circuit Reusing and its Application in Randomized Benchmarking* <br>
+**Zhuo Chen**, Guoding Liu, Xiongfeng Ma. <br>
+*arXiv (2024).* [<a href="https://arxiv.org/abs/2407.15582" target="_blank">PDF</a>]
 
 Work experience
 ======
@@ -42,24 +42,6 @@ Skills
   * Sub-skill 2.3
 * Skill 3
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
