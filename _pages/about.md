@@ -10,38 +10,36 @@ redirect_from:
 Zhuo Chen is a senior undergraduate at the Institute for Interdisciplinary Information Sciences (Yao Class), at Tsinghua University.
 He is majoring in Computer Science and Technology and expected to obtain a Bachelor of Engineering in Fall 2025.
 
+Research Interest
+======
+Generally, I am interested in addressing theoretical quantum challenges from computer science, mathematics, and physics perspectives. I am recently intrigued by quantum entanglement and nonlocality phenomena, and the learning theory of quantum systems.
+
 Publications
 ======
 1. *Optimizing Circuit Reusing and its Application in Randomized Benchmarking* <br>
 **Zhuo Chen**, Guoding Liu, Xiongfeng Ma. <br>
 *arXiv (2024).* [<a href="https://arxiv.org/abs/2407.15582" target="_blank">PDF</a>]
 
-Work experience
+Current Research
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+1. *Detecting Entanglement and Nonlocality with Minimum Observable Length*
+2. *Adaptive Circuit Reusing for Randomized Benchmarking Protocols*
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+Research experience
+======
+* Summer 2024: Student Research Assistant
+  * The University of Hong Kong, Department of Computer Science
+  * Supervisor: Prof. Qi Zhao
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Programming language
+  * C/C++
+  * Python
+  * Matlab
+* Technologies/Frameworks
+  * Quantum Software Programming
+  * Numerical Analysis
+  * Machine Learning Data Training
+  * Computer System Architecture Simulation
+  * Type-Sate Back-End Programming
