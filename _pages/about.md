@@ -19,7 +19,7 @@ Publications
 ======
 1. *Optimizing Circuit Reusing and its Application in Randomized Benchmarking* <br>
 **Zhuo Chen**, Guoding Liu, Xiongfeng Ma. <br>
-*arXiv (2024).* <a href="{{base.url}}/files/paper1.pdf" target="_blank">\[PDF\]</a>
+*arXiv (2024).* <a href="{{base.url}}/files/paper.pdf" target="_blank">\[PDF\]</a>
 
 Current Research
 ======
